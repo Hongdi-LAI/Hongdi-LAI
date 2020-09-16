@@ -1,9 +1,9 @@
 ### Hi there, I'm Hongdi! 👋 <br /> 
-# I design websites, build apps and have fun while doing that.
+# I build apps and have fun while doing that. :p
 
 
 - 🔭 I’m currently working on [Amazon-Clone-Website](https://clone-27d1c.web.app/)!
-- 🌱 I’m open-minded and are learning everything 
+- 🌱 I’m open-minded and always eager to learn more 
 - 👯 I’m looking to get more in-depth with full-stack web development 
 - 🥅 2020 Goals: Contribute more to Open Source projects and keep on learning
 - ⚡ Fun fact: I love all forms of artistic expression and I play guitar and piano :)   
@@ -19,6 +19,8 @@
 [<img align="left" alt="HongdiLAI.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Hongdi LAI | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Hongdi LAI | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br/>
 
 ### Languages and Tools:
 
