@@ -77,12 +77,12 @@ export const PersonalInfo = {
   
   export const Programming = {
   
-    languages: ['JavaScript', 'PHP'],
+    languages: ['JavaScript', 'Python', 'C#', 'Java'],
     stylesheets: ['CSS', 'HTML'],
     frameworks: ['React'],
     runtimes: ['Node'],
     databases: ['MySQL', 'MongoDb', 'Firebase Cloud Functions'], 
-    learning: ['Rust', 'Go', 'Angular'],
+    learning: ['Vue'],
     projects: ['Amazon-clone', 'Whatsapp-clone', 'Spotify-clone', 'Tinder-clone', 'AR Flood Data Visualiser - C#/Unity3D'],
   
   }
