@@ -1,6 +1,8 @@
 ### Hi there, I'm Hongdi! 👋
 
-## I design websites, build apps and have fun while doing it.
+## I design websites, build apps and have fun while doing that.
+
+<br />
 
 - 🔭 I’m currently working on !
 - 🌱 I’m currently learning everything 🤣
@@ -9,18 +11,10 @@
 - ⚡ Fun fact: I love all forms of artistic expression and I play guitar and piano :)   
 
 <br />
+
+### Spotify Playing 🎧 : [<img align = "center" src="https://spotify-song-play.vercel.app/api/spotify" alt="Hongdi Spotify Playing" width="350" />](https://open.spotify.com/user/31dooh2ki6gfuaom4t5an5yykm24)
+
 <br />
-
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-
-[<img src="https://spotify-song-play.vercel.app/api/spotify" alt="Hongdi Spotify Playing" width="350" />](https://open.spotify.com/user/31dooh2ki6gfuaom4t5an5yykm24)
-
-  </td>
-
-  <td width="50%">
-
 
 
 ### Connect with me:
@@ -29,10 +23,6 @@
 [<img align="left" alt="Hongdi LAI | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Hongdi LAI | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-  </td>
-</table>
-
-[//]
 
 <br />
 
