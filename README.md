@@ -58,6 +58,48 @@
 
 ---
 
+<details>
+  <summary>:zap: My Profile in JavaScript </summary>
+  
+  ```js
+  
+export const PersonalInfo = {
+
+    name:'Hongdi LAI',
+    age: 23,
+    nationality: 'Chinese',
+    languages: { English: 'C2', Mandarin: 'Native', Cantonese : 'Native', German: 'B2', Japanese: 'N3' },
+    occupation: 'Hydro-informatic Specilist/Data Analyst',
+    freetime: ['Gym', 'Guitar/Piano', 'Drawing', 'Learning new things'],
+    musical_interest: ['70s', '80s', '90s','00s'],
+
+  }
+  
+  export const Programming = {
+  
+    languages: ['JavaScript', 'PHP'],
+    stylesheets: ['CSS', 'HTML'],
+    frameworks: ['React'],
+    runtimes: ['Node'],
+    databases: ['MySQL', 'MongoDb', 'Firebase Cloud Functions'], 
+    learning: ['Rust', 'Go', 'Angular'],
+    projects: ['Amazon-clone', 'Whatsapp-clone', 'Spotify-clone', 'Tinder-clone', 'AR Flood Data Visualiser - C#/Unity3D'],
+  
+  }
+  
+  export const Social = {
+  
+    website: 'https://www.linkedin.com/in/hongdilai/',
+    github: 'Hongdi-LAI',
+    instagram: '@hongdi_lai',
+    spotify: 'https://open.spotify.com/user/31dooh2ki6gfuaom4t5an5yykm24',
+  
+  }
+
+```
+
+</details>
+
 
 
 
