@@ -1,4 +1,4 @@
-I### Hi there, I'm Hongdi! 👋
+### Hi there, I'm Hongdi! 👋
 
 ## I'm a Data Analyst, Software Developer, Front-end Developer and Hydro-informatic Specialist.
 
