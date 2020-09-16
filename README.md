@@ -1,31 +1,24 @@
-### Hi there, I'm Hongdi! 👋
+### Hi there, I'm Hongdi! 👋 <br /> 
+# I design websites, build apps and have fun while doing that.
 
-## I design websites, build apps and have fun while doing that.
 
-<br />
-
-- 🔭 I’m currently working on !
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on [Amazon-Clone-Website](https://clone-27d1c.web.app/)!
+- 🌱 I’m open-minded and are learning everything 
 - 👯 I’m looking to get more in-depth with full-stack web development 
 - 🥅 2020 Goals: Contribute more to Open Source projects and keep on learning
 - ⚡ Fun fact: I love all forms of artistic expression and I play guitar and piano :)   
 
-<br />
+---
 
-### Spotify Playing 🎧 : [<img align = "center" src="https://spotify-song-play.vercel.app/api/spotify" alt="Hongdi Spotify Playing" width="350" />](https://open.spotify.com/user/31dooh2ki6gfuaom4t5an5yykm24)
+### Spotify Playing 🎧 :  [<img align = "center" src="https://spotify-song-play.vercel.app/api/spotify" alt="Hongdi Spotify Playing" width="350" />](https://open.spotify.com/user/31dooh2ki6gfuaom4t5an5yykm24)
 
-<br />
-
+---
 
 ### Connect with me:
 
 [<img align="left" alt="HongdiLAI.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Hongdi LAI | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Hongdi LAI | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-<br />
-
 
 ### Languages and Tools:
 
@@ -46,7 +39,24 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
-<br />
+
+---
+
+### 📺 Latest Open Source Projects
+
+<!-- Projects:START -->
+- [**Full-Stack:** Amazon-Clone E-commerce SPA Website with Full Functionalities as Login, Checkout, Payment and Orders Review](https://github.com/Hongdi-LAI/Amazon-clone)
+- [**React.js + Firebase:** Whatsapp-Clone Chatting SPA with Functionalities as Google Login, Chat Room Create, Real-time Message Data Post and Fetch](https://github.com/Hongdi-LAI/Whatsapp-clone)
+- [**MERN-Stack:** Whatsapp-Clone Chatting SPA with Node.js-based API, MongoDb Database, Pusher Data Transfer Trigger and React.js-based Front-end](https://github.com/users/Hongdi-LAI/projects/1)
+- [**React.js + Firebase:** Spotify-Clone Music App with Responsive UI Design](https://github.com/Hongdi-LAI/Spotify-clone/tree/master/spotify-clone)
+- [**React.js + Firebase:** Tinder-Clone Dating SPA with Responsive UI Design and Real-time Data Storage](https://www.youtube.com/watch?v=4adVM33GAlA)
+<!-- Projects:END -->
+
+➡️ [more projects...](https://github.com/Hongdi-LAI?tab=repositories)
+
+---
+
+
 
 
 
