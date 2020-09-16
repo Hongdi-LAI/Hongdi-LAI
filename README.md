@@ -10,5 +10,5 @@ I### Hi there, I'm Hongdi! 👋
 
 
 ### Spotify Playing 🎧
-[<img src="https://profile-spotify-song-play.vercel.app/api/spotify-playing" alt="Hongdi Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://profile-spotify-song-play.vercel.app/api/spotify-playing" alt="Hongdi Spotify Playing" width="350" />](https://open.spotify.com/user/31dooh2ki6gfuaom4t5an5yykm24)
 
