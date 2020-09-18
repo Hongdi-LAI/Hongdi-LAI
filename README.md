@@ -60,6 +60,7 @@
 
 <details>
   <summary>:zap: My Profile in JavaScript </summary>
+  <br />
   
   ```js
   
@@ -68,7 +69,14 @@ export const PersonalInfo = {
     name:'Hongdi LAI',
     age: 23,
     nationality: 'Chinese',
-    languages: { English: 'C2', Mandarin: 'Native', Cantonese : 'Native', German: 'B2', Japanese: 'N3' },
+    languages: [
+                  {name: 'English', niveau: 'C2'}, 
+                  {name: 'Mandarin', niveau: 'Native'}, 
+                  {name: 'Cantonese', niveau: 'Native'}, 
+                  {name: 'German', niveau: 'B2'}, 
+                  {name: 'Japanese', niveau: 'N3'},
+                  {name: 'French', niveau: 'A2'}
+               ],
     occupation: 'Hydro-informatic Specilist/Data Analyst',
     freetime: ['Gym', 'Guitar/Piano', 'Drawing', 'Learning new things'],
     musical_interest: ['70s', '80s', '90s','00s'],
