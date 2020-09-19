@@ -54,7 +54,7 @@
 - [**React.js + Firebase:** Tinder-Clone Dating SPA with Responsive UI Design and Real-time Data Storage](https://www.youtube.com/watch?v=4adVM33GAlA)
 <!-- Projects:END -->
 
-➡️ [more projects...](https://github.com/Hongdi-LAI?tab=repositories)
+➡️ [more projects...](https://github.com/Hongdi-LAI?tab=projects)
 
 ---
 
