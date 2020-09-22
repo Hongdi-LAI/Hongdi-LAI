@@ -113,6 +113,6 @@ export const PersonalInfo = {
 
 
 
-[website]: https://www.linkedin.com/in/hongdilai/
+[website]: https://hongdi.web.app/
 [instagram]: https://www.instagram.com/hongdi_lai/
 [linkedin]: https://www.linkedin.com/in/hongdilai/
