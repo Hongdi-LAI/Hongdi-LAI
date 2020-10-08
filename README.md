@@ -2,7 +2,7 @@
 # I build apps and have fun while doing that. :p
 
 
-- 🔭 I’m currently working on [Amazon-Clone-Website](https://clone-27d1c.web.app/)!
+- 🔭 I’m currently working on Machine Learning and Web Dev Projects!
 - 🌱 I’m open-minded and always eager to learn more 
 - 👯 I’m looking to get more in-depth with full-stack web development 
 - 🥅 2020 Goals: Contribute more to Open Source projects and keep on learning
